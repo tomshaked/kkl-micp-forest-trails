@@ -1,3 +1,5 @@
+![Aminadav Forest, KKL-JNF](https://upload.wikimedia.org/wikipedia/commons/e/e2/Aminadav_Forest_1.jpg)
+
 # Sustainable Stabilization of Forest Roads and Trails Using Robotic Application of MICP
 
 **ייצוב בר-קיימא של דרכים ושבילים ביער באמצעות יישום רובוטי של משקעי קלציט מיקרוביאליים (MICP)**
