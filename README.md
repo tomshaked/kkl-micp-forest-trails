@@ -1,4 +1,4 @@
-![Aminadav Forest, KKL-JNF](assets/header.jpg)
+<img src="assets/header.jpg" width="100%" alt="Aminadav Forest, KKL-JNF">
 
 # Sustainable Stabilization of Forest Roads and Trails Using Robotic Application of MICP
 
