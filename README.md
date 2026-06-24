@@ -1,4 +1,4 @@
-![Aminadav Forest, KKL-JNF](https://upload.wikimedia.org/wikipedia/commons/e/e2/Aminadav_Forest_1.jpg)
+![Aminadav Forest, KKL-JNF](assets/header.jpg)
 
 # Sustainable Stabilization of Forest Roads and Trails Using Robotic Application of MICP
 
